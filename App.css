@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  padding: 20px;
+}
+
+.course-list {
+ display:flex;
+ justify-content:center;
+ gap: 20px;
+ flex-warp: warp; 
+}
